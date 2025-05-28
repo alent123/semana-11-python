@@ -32,9 +32,6 @@ Desarrollar y comprender estructuras de datos avanzadas (árboles binarios) y al
 - Profesor: Garamendi Sarmiento, Elliot Leo
 
 ## Cómo ejecutar
-Cada archivo `.py` contiene un conjunto de pruebas al final del script. Para ejecutar un desafío, simplemente correr el archivo en Python 3:
+Cada archivo `.py` contiene un conjunto de pruebas al final del script. Para ejecutar un desafío, simplemente correr el archivo en Python 3
 
-    python3 challenge1.py
-
-Reemplaza `challenge1.py` por el archivo que desees probar.
 """
